@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Gauthier, 42 student. Welcome and have a good "copy-paste" time 😄
+I'm Gauthier, 42 student. Welcome and have a nice "inspiration" time 😄
 <div style="margin: 0 auto; width: 50%;" align = center>
   <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clvc5rxvg1957601p48qay65ml/stats?cursusId=21&coalitionId=317" alt="gpeyre's 42 stats" /></a>
 </div>
