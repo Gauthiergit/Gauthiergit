@@ -1,7 +1,8 @@
 ### Hi there 👋 
 I'm Gauthier, 42 student. Welcome and have a good "copy-paste" time 😄
-
-[![gpeyre's 42 stats](https://badge42.coday.fr/api/v2/clvc5rxvg1957601p48qay65ml/stats?cursusId=21&coalitionId=317)](https://github.com/Coday-meric/badge42)
+<div style="margin: 0 auto; width: 50%;" align = center>
+  <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clvc5rxvg1957601p48qay65ml/stats?cursusId=21&coalitionId=317" alt="gpeyre's 42 stats" /></a>
+</div>
 <!--
 **Gauthiergit/Gauthiergit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
