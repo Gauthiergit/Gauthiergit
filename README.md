@@ -13,7 +13,6 @@ I'm Gauthier, 42 student. Welcome and have a nice "inspiration" time 😄
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Gauthiergit)
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/vfuster66)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Gauthiergit)
-[![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)](https://github.com/Gauthiergit)
 
 ## 📊 GitHub Stats
 [![Languages](https://github-readme-stats.vercel.app/api?username=Gauthiergit&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/Gauthiergit)
