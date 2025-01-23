@@ -15,6 +15,7 @@ I'm Gauthier, 42 student. Welcome and have a nice "inspiration" time 😄
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Gauthiergit)
 
 ## 📊 GitHub Stats
-[![Languages](https://github-readme-stats.vercel.app/api?username=Gauthiergit&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/Gauthiergit)
+[![Languages](https://github-readme-stats.vercel.app/api?username=Gauthiergit&theme=vue-dark&hide_border=true)](https://github.com/Gauthiergit)
 
-[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauthiergit&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/Gauthiergit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauthiergit&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/Gauthiergit)
+
