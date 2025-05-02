@@ -15,6 +15,7 @@ I'm Gauthier, 42 student. Welcome and have a nice "inspiration" time 😄
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Gauthiergit)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Gauthiergit)
 [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://github.com/Gauthiergit)
+[![Angular](https://img.shields.io/badge/Angular-19-purple?logo=angular&logoColor=white&style=for-the-badge)](https://github.com/Gauthiergit)
 
 
 ## 📊 GitHub Stats
